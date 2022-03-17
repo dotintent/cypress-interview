@@ -2,7 +2,6 @@
 
 This is a small app for cypress interview purposes. You'll have to complete all tasks in a given time.
 Please create a separate branch before you start coding.
-At the end create a pull request.
 Good luck!
 
 ### Set up this repo
