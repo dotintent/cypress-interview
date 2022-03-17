@@ -6,7 +6,7 @@ import 'cypress-localstorage-commands'
 // You're going to test this site http://localhost:8080/todo
 
 // Please write a test:
-// 1. prepare the initial list of tasks (tip: use the mock prepared)
+// 1. prepare the initial list of tasks with the mock prepared  (tip: use the local storage)
 // 2. count the list of elements in All tab
 // 3. count the list of elements in Active tab
 // 4. count the list of elements in Completed tab
